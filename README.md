@@ -1,4 +1,4 @@
-## 🗂️ Description
+## 🗂️ Password Expiration Notifier
 A desktop application that notifies users of upcoming password expiration through a simple GUI
 
 ## 🤖 Tech Stack
