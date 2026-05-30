@@ -1,4 +1,4 @@
-# 🗂️ Password Expiration Notifier
+# 🗂️ Password Expiration Date Reminder
 A Windows automation tool built with PowerShell that notifies users of upcoming password expiration through a simple GUI.
 
 ## 🎯 Problem
